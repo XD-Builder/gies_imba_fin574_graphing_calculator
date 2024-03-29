@@ -6,7 +6,7 @@
 import unittest
 from click.testing import CliRunner
 
-from gies_imba_fin574_graphing_calculator import gies_imba_fin574_graphing_calculator
+from gies_imba_fin574_graphing_calculator import graphing_calculator
 from gies_imba_fin574_graphing_calculator import cli
 
 

@@ -1,0 +1,5 @@
+demands:
+    demand1: 140 - 5*x
+supplies:
+    supply1: 30 + 5*x
+    supply2: 40 + 5*x

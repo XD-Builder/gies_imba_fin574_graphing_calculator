@@ -4,13 +4,13 @@
 
 from setuptools import setup, find_packages
 
-with open('README.rst') as readme_file:
+with open('README.md') as readme_file:
     readme = readme_file.read()
 
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = ['Click>=7.0', ]
+requirements = ['Click>=7.0', "numpy==1.26.4", "matplotlib==3.8.3", "PyYAML==6.0.1", "pydantic==2.6.4", "scipy==1.12.0"]
 
 test_requirements = [ ]
 

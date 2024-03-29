@@ -1,0 +1,5 @@
+demands:
+    demand1: 140 - 5*x
+    demand2-after-right-shift: 160 - 5*x
+supplies:
+    supply1: 30 + 5*x
